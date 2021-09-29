@@ -1,0 +1,1 @@
+This program was used to learn different commands on Strings. 

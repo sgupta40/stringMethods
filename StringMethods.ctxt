@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=StringMethods
+comment0.text=\n\ This\ class\ contains\ a\ main(\ )\ method\ only\n\ and\ its\ purpose\ it\ to\ demonstrate\ the\ use\n\ of\ several\ methods\ in\ the\ String\ class\ API\n\ \n\ Each\ student\ must\ submit\ their\ completed\ code.\n\ \n\ @author\ your\ team\ name\ \n\ @version\ todays's\ date\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
